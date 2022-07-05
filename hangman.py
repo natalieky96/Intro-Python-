@@ -1,9 +1,8 @@
 #################################################################
 # FILE : quadratic_equation.py
-# WRITER : natalie_kern_iacob , natalie.ki1996 , 316563865
+# WRITER : natalie_kern_iacob
 # EXERCISE : intro2cse ex4 2020
 # DESCRIPTION: The program is a variation of the 'hangman' game.
-# STUDENTS I DISCUSSED THE EXERCISE WITH: Hadar_hever
 # WEB PAGES I USED: None.
 # NOTES: None.
 #################################################################
